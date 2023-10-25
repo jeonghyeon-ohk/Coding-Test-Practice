@@ -1,7 +1,9 @@
 package baekjoon_coding.자료구조.배열과_리스트.p1929_소수_구하기;
 import java.util.*;
 import java.io.*;
-public class Main{
+
+// 에라토스테네스의 체 활용한 풀이방법
+public class Main_에라토스테네스의_체_활용{
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
